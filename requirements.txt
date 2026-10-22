@@ -1,5 +1,6 @@
-ultralytics
-opencv-python
 streamlit
+ultralytics
+opencv-python-headless
 pandas
+plotly
 reportlab
