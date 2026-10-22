@@ -4,3 +4,4 @@ opencv-python-headless
 pandas
 plotly
 reportlab
+imageio-ffmpeg
